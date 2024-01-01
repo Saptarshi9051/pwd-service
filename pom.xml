@@ -19,6 +19,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>pwd-service-v1.0</finalName>
+		<finalName>pwd-service</finalName>
 	</build>
 </project>
